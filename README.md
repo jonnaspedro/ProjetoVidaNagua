@@ -26,21 +26,21 @@ O projeto busca conscientizar sobre:
 ---
 
 ## 🗓️ Cronograma de Desenvolvimento
-| Data       | Atividade                         | Responsável(es)        | Status          |
-|------------|-----------------------------------|------------------------|-----------------|
-| 29/11/2024 | Protótipo                         | Jonnas Pedro           | ✅ Concluído     |
-| 29/11/2024 | Parte escrita                     | Todos os participantes | ✅ Concluído     |
-| 06/12/2024 | Entrega do cronograma             | Todos                  | ✅ Concluído     |
-| 06/12/2024 | Apresentação do trabalho          | Todos                  | ✅ Concluído     |
-| 13/12/2024 | Estudar HTML e CSS                | Todos                  | ⏳ Em andamento |
-| 27/12/2024 | Recesso                           | -                      | ⏸️              |
-| 03/01/2025 | Recesso                           | -                      | ⏸️              |
-| 10/01/2025 | Estruturar o site                 | Todos                  | 🔜              |
-| 17/01/2025 | Programação                       | Todos                  | 🔜              |
-| 24/01/2025 | Programação                       | Todos                  | 🔜              |
-| 31/01/2025 | Programação                       | Todos                  | 🔜              |
-| 07/02/2025 | Revisão dos códigos e testes      | Todos                  | 🔜              |
-| 14/02/2025 | Entrega final do site             | Todos                  | 🔜              |
+| Data       | Atividade                         | Responsável(es)        | Status       |
+|------------|-----------------------------------|------------------------|--------------|
+| 29/11/2024 | Protótipo                         | Jonnas Pedro           | ✅ Concluído |
+| 29/11/2024 | Parte escrita                     | Todos os participantes | ✅ Concluído |
+| 06/12/2024 | Entrega do cronograma             | Todos                  | ✅ Concluído |
+| 06/12/2024 | Apresentação do trabalho          | Todos                  | ✅ Concluído |
+| 13/12/2024 | Estudar HTML e CSS                | Todos                  | ✅ Concluído |
+| 27/12/2024 | Recesso                           | -                      | ✅ Concluído |
+| 03/01/2025 | Recesso                           | -                      | ✅ Concluído |
+| 10/01/2025 | Estruturar o site                 | Todos                  | ✅ Concluído |
+| 17/01/2025 | Programação                       | Todos                  | ✅ Concluído |
+| 24/01/2025 | Programação                       | Todos                  | ✅ Concluído |
+| 31/01/2025 | Programação                       | Todos                  | ✅ Concluído |
+| 07/02/2025 | Revisão dos códigos e testes      | Todos                  | ✅ Concluído |
+| 14/02/2025 | Entrega final do site             | Todos                  | ✅ Concluído |
 
 ---
 
