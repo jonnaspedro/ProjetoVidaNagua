@@ -2,7 +2,6 @@
 
 O **ÁGUA VIDA** é um projeto educativo que busca **conscientizar sobre a preservação dos oceanos** e incentivar ações contra a poluição marinha.
 
----
 
 ## 🌍 Objetivo
 
@@ -11,7 +10,6 @@ O **ÁGUA VIDA** é um projeto educativo que busca **conscientizar sobre a prese
 * Apresentar **soluções globais** já em prática;
 * Incentivar **ações individuais e coletivas** para um futuro sustentável.
 
----
 
 ## 🛠️ Recursos
 
@@ -21,14 +19,12 @@ O **ÁGUA VIDA** é um projeto educativo que busca **conscientizar sobre a prese
 * 🧑‍🤝‍🧑 Sugestões práticas de ação
 * 💡 Tecnologias e soluções inovadoras
 
----
 
 ## 🤝 Equipe
 
 * **Jonnas Pedro** – Protótipo e parte do desenvolvimento
 * **Todos os participantes** – Pesquisa, escrita, programação e apresentação
 
----
 
 ## 🚀 Meta
 
